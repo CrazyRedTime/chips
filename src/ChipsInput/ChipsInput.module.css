@@ -1,0 +1,32 @@
+.inputDiv {
+  height: 40px;
+  width: 900px;
+  background: #f2f1ed;
+  border-radius: 2px;
+  display: flex;
+  padding: 10px;
+  border: none;
+  outline: none;
+  align-items: center;
+}
+
+.rootInput {
+  background: #f2f1ed;
+  border: none;
+  outline: none;
+  width: 100%;
+  display: inline-block;
+  font-size: 18px;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.error {
+  color: #e3143a;
+}
+

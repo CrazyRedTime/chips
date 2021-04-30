@@ -1,0 +1,26 @@
+.chipContainer {
+  background-color: #97def7;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  margin-right: 10px;
+  border-radius: 4px;
+} 
+
+.chip {
+  background-color: #97def7;
+  white-space: nowrap;
+  color: #0e0ca8;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.deleteButton {
+  background-color: #97def7;
+  color: #9e9dc9;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  font-weight: 900;
+  font-size: 18px;
+}
