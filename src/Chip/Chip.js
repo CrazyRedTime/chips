@@ -41,7 +41,6 @@ const Chip = ({ value, index, chipsArray, setChipsArray }) => {
         {value}
       </span>
       <button className={styles.deleteButton} onClick={deleteChip}>
-        x
       </button>
     </div>
   );
